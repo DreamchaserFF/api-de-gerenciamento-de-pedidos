@@ -6,7 +6,7 @@ const options = {
     info: {
       title: 'Orders API',
       version: '1.0.0',
-      description: 'API para gerenciamento de pedidos - Jitterbit',
+      description: 'API para gerenciamento de pedidos',
     },
     components: {
       securitySchemes: {

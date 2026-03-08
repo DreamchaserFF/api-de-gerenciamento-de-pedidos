@@ -1,7 +1,7 @@
 {
   "name": "orders-api",
   "version": "1.0.0",
-  "description": "API para gerenciamento de pedidos - Jitterbit",
+  "description": "API para gerenciamento de pedidos",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
